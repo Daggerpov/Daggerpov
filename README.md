@@ -1,4 +1,4 @@
-<h1>Here are some fun facts about me:<a href="https://www.linkedin.com/in/daniel-agapov-8b9954200/" target="_blank">
+<h1>Here are some fun facts about me:<a href="https://www.linkedin.com/in/danielagapov" target="_blank">
 <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>
 </a>  </h1>
 
