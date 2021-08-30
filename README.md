@@ -7,7 +7,7 @@
 <ul>
   
   <li>💻 Started coding at 14; typing speed is ~125 WPM (words/minute)</li></br>
-  <li>🎶 I love listening to music & I've played the piano, trumpet, and trombone</li></br>
+  <li>🎶 I love music & I've played the piano, trumpet, and trombone</li></br>
   <li>🧩 Working on improving my Rubik's cube solve time of ~1 min</li></br>
   <li>🏀 Used to play/watch Basketball all the time as a kid</li></br>
   <li>😅 The nickname Daggerpov was given to me by a friend</li>
