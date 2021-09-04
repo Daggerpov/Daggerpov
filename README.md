@@ -1,5 +1,5 @@
 <h1>Here are some fun facts about me:
-  <a href="https://www.linkedin.com/in/danielagapov" target="_blank">
+  <a href="https://www.linkedin.com/in/danielagapov" onclick="window.open(this.href,'_blank');return false;">
     <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>   </a>
   <a href="https://www.instagram.com/ldh_codeclub/" target="_blank">
     <img align="right" src=https://img.shields.io/badge/LDH_CodeClub-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>
