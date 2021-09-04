@@ -1,6 +1,11 @@
-<h1>Here are some fun facts about me:<a href="https://www.linkedin.com/in/danielagapov" target="_blank">
-<img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>
-</a>  </h1>
+<h1>Here are some fun facts about me:
+  <a href="https://www.linkedin.com/in/danielagapov" target="_blank">
+    <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>   </a>
+  <a href="https://www.instagram.com/ldh_codeclub/" target="_blank">
+    <img align="right" src=https://img.shields.io/badge/LDH_CodeClub-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>
+  </a>
+
+  </h1>
 
 <img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" />
 
