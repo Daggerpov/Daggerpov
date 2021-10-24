@@ -34,8 +34,8 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" />  </a>
     <a href="https://nodejs.org/en/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="100" />  </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  </a>
+    <a href="https://reactnative.dev/" target="_blank">
+      <img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="75" />  </a>
   </div>
 
   </td><td valign="top" width="33%">
@@ -62,8 +62,8 @@
 
   # Learning Interest  
   <div align="center">  
-    <a href="https://developer.apple.com/swift/" target="_blank">
-      <img style="margin: 10px" src="https://developer.apple.com/swift/images/swift-og.png" alt="Swift" height="75" />.  </a>
+    <a href="https://reactjs.org/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />.  </a>
     <a href="https://unity.com/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="75" />  </a>  
     <a href="https://www.raspberrypi.org/" target="_blank">
