@@ -36,6 +36,8 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="100" />  </a>
     <a href="https://reactnative.dev/" target="_blank">
       <img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="75" />  </a>
+    <a href="https://firebase.google.com/" target="_blank">
+      <img style="margin: 10px" src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="Firebase" height="75" />  </a>
   </div>
 
   </td><td valign="top" width="33%">
@@ -71,7 +73,10 @@
     <a href="https://www.tensorflow.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="75" />  </a>
     <a href="https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=namer&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQjw4eaJBhDMARIsANhrQADDCjR1Vha919pu7dDck1bMv_7L4N1a2LPmlQ3yM3P8kW3Zxwp0SN8aAvH-EALw_wcB" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />  </a>
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Java" height="75" />  </a>
+    <a href="https://www.java.com/en/" target="_blank">
+      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="75" />  </a>
+      
   </div>
 
 </td></tr></table>  
