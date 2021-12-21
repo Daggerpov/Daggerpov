@@ -37,7 +37,7 @@
     <a href="https://reactnative.dev/" target="_blank">
       <img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="75" />  </a>
     <a href="https://firebase.google.com/" target="_blank">
-      <img style="margin: 10px" src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="Firebase" height="75" />  </a>
+      <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="75" />  </a>
   </div>
 
   </td><td valign="top" width="33%">
