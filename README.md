@@ -34,10 +34,10 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" />  </a>
     <a href="https://nodejs.org/en/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="100" />  </a>
-    <a href="https://reactnative.dev/" target="_blank">
-      <img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="75" />  </a>
-    <a href="https://firebase.google.com/" target="_blank">
-      <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="75" />  </a>
+    <a href="https://www.java.com/en/" target="_blank">
+      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="75" />  </a>
+    <a href="https://github.com/pygame/pygame" target="_blank">
+      <img style="margin: 10px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="Pygame" height="75" />  </a>
   </div>
 
   </td><td valign="top" width="33%">
@@ -58,6 +58,10 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" />  </a>
     <a href="https://www.arduino.cc/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="60" />  </a>
+    <a href="https://reactnative.dev/" target="_blank">
+      <img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="75" />  </a>
+    <a href="https://firebase.google.com/" target="_blank">
+      <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="75" />  </a>
   </div>
 
   </td><td valign="top" width="33%">
@@ -74,8 +78,7 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="75" />  </a>
     <a href="https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=namer&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQjw4eaJBhDMARIsANhrQADDCjR1Vha919pu7dDck1bMv_7L4N1a2LPmlQ3yM3P8kW3Zxwp0SN8aAvH-EALw_wcB" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Java" height="75" />  </a>
-    <a href="https://www.java.com/en/" target="_blank">
-      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="75" />  </a>
+    
       
   </div>
 
