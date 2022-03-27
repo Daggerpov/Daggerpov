@@ -62,6 +62,10 @@
       <img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="75" />  </a>
     <a href="https://firebase.google.com/" target="_blank">
       <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="75" />  </a>
+    <a href="https://www.selenium.dev/" target="_blank">
+      <img style="margin: 10px" src="https://blog.autify.com/static/0b1fa7c84cc543a52641d6395ad328c0/553fd/selenium-logo.png" alt="Selenium" height="55" />  </a>
+    <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank">
+      <img style="margin: 10px" src="https://miro.medium.com/max/1045/1*jN3vLj7R8m9BEpOJuMJT-w.png" alt="BeautifulSoup" height="55" />  </a>
   </div>
 
   </td><td valign="top" width="33%">
