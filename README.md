@@ -36,8 +36,8 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="95" />  </a>
     <a href="https://www.java.com/en/" target="_blank">
       <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="70" />  </a>
-    <a href="https://github.com/pygame/pygame" target="_blank">
-      <img style="margin: 10px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="Pygame" height="70" />  </a>
+    <a href="https://reactjs.org/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
   </div>
 
   </td><td valign="top" width="33%">
@@ -54,8 +54,6 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />  </a>
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />  </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />  </a>
     <a href="https://www.arduino.cc/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="55" />  </a>
     <a href="https://reactnative.dev/" target="_blank">
@@ -67,13 +65,13 @@
     <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank">
       <img style="margin: 10px" src="https://miro.medium.com/max/1045/1*jN3vLj7R8m9BEpOJuMJT-w.png" alt="BeautifulSoup" height="50" />  </a>
   </div>
+    <a href="https://github.com/pygame/pygame" target="_blank">
+      <img style="margin: 10px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="Pygame" height="70" />  </a>
 
   </td><td valign="top" width="33%">
 
   # Learning Interest  
   <div align="center">  
-    <a href="https://reactjs.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
     <a href="https://unity.com/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="70" />  </a>  
     <a href="https://www.raspberrypi.org/" target="_blank">
@@ -82,6 +80,8 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="70" />  </a>
     <a href="https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=namer&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQjw4eaJBhDMARIsANhrQADDCjR1Vha919pu7dDck1bMv_7L4N1a2LPmlQ3yM3P8kW3Zxwp0SN8aAvH-EALw_wcB" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Java" height="70" />  </a>
+    <a href="https://www.rust-lang.org/" target="_blank">
+      <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.png" alt="Java" height="70" />  </a>
     
       
   </div>
