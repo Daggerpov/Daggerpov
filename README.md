@@ -11,11 +11,11 @@
 <img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" />
 
 <ul>
-  <li>💻 Started coding at 14; typing speed is ~125 WPM (words/minute)</li></br>
+  <li>🏀 I've always loved playing and watching Basketball</li></br>
   <li>🎶 I love music & have played the piano, trumpet, and trombone</li></br>
-  <li>🧩 Working on improving my Rubik's cube solve time of ~1 min</li></br>
-  <li>🏀 Used to play/watch basketball all the time as a kid</li></br>
-  <li>😅 The nickname Daggerpov was given to me by a friend</li>
+  <li>🧩 Recently learned to solve a Rubik's cube</li></br>
+  <li>😅 The nickname Daggerpov was given to me by a friend</li></br>
+  <li>💻 Started coding at 14; typing speed is ~125 WPM (words/minute)</li>
 </h4>
 
 </br>
