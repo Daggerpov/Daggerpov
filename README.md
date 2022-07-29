@@ -36,6 +36,8 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="95" />  </a>
     <a href="https://reactjs.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
+    <a href="https://firebase.google.com/" target="_blank">
+      <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="65" />  </a>
   </div>
 
   </td><td valign="top" width="33%">
@@ -56,8 +58,6 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="45" />  </a>
     <a href="https://reactnative.dev/" target="_blank">
       <img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="70" />  </a>
-    <a href="https://firebase.google.com/" target="_blank">
-      <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="65" />  </a>
     <a href="https://www.selenium.dev/" target="_blank">
       <img style="margin: 10px" src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/banner-selenium.png" alt="Selenium" height="50" />  </a>
     <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank">
@@ -72,10 +72,6 @@
 
   # Learning Interest  
   <div align="center">  
-    <a href="https://unity.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" />  </a>  
-    <a href="https://www.raspberrypi.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="60" />  </a>
     <a href="https://www.tensorflow.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="65" />  </a>
     <a href="https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=namer&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQjw4eaJBhDMARIsANhrQADDCjR1Vha919pu7dDck1bMv_7L4N1a2LPmlQ3yM3P8kW3Zxwp0SN8aAvH-EALw_wcB" target="_blank">
@@ -84,7 +80,7 @@
       <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.png" alt="Rust" height="70" />  </a>
     <a href="https://tauri.app/" target="_blank">
       <img style="margin: 10px" src="https://user-images.githubusercontent.com/53918934/175796535-e2cf14c9-fe1b-49ed-950c-2aeddf1817a6.png" alt="Tauri" height="65" />  </a>
-    
+      
       
   </div>
 
