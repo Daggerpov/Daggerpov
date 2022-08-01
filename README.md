@@ -20,7 +20,7 @@
 
 </br>
 <table><tr>
-  <td bg="D4AF37" valign="top" width="33%">
+  <td bg="D4AF37" valign="top" width="28%">
     
   # Currently Using  
   <div align="center">  
@@ -30,8 +30,6 @@
        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  </a>
     <a href="https://www.python.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />  </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="60" />  </a>
     <a href="https://reactjs.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
     <a href="https://firebase.google.com/" target="_blank">
@@ -40,7 +38,7 @@
       <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="65" />  </a>
   </div>
 
-  </td><td valign="top" width="33%">
+  </td><td valign="top" width="44%">
 
   # Have Used  
   <div align="center">  
@@ -64,11 +62,11 @@
       <img style="margin: 10px" src="https://miro.medium.com/max/1045/1*jN3vLj7R8m9BEpOJuMJT-w.png" alt="BeautifulSoup" height="50" />  </a>
   </div>
     <a href="https://github.com/pygame/pygame" target="_blank">
-      <img style="margin: 10px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="Pygame" height="60" />  </a>
+      <img style="margin: 10px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="Pygame" height="55" />  </a>
     <a href="https://www.java.com/en/" target="_blank">
       <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="65" />  </a>
 
-  </td><td valign="top" width="33%">
+  </td><td valign="top" width="28%">
 
   # Learning Interest  
   <div align="center">  
@@ -80,6 +78,8 @@
       <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.png" alt="Rust" height="70" />  </a>
     <a href="https://tauri.app/" target="_blank">
       <img style="margin: 10px" src="https://user-images.githubusercontent.com/53918934/175796535-e2cf14c9-fe1b-49ed-950c-2aeddf1817a6.png" alt="Tauri" height="65" />  </a>
+    <a href="https://www.djangoproject.com/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="100" />  </a>
       
       
   </div>
