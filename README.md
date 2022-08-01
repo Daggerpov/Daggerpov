@@ -38,7 +38,7 @@
       <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="65" />  </a>
   </div>
 
-  </td><td valign="top" width="44%">
+  </td><td valign="top" width="42%">
 
   # Have Used  
   <div align="center">  
@@ -66,7 +66,7 @@
     <a href="https://www.java.com/en/" target="_blank">
       <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="65" />  </a>
 
-  </td><td valign="top" width="28%">
+  </td><td valign="top" width="30%">
 
   # Learning Interest  
   <div align="center">  
