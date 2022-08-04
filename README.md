@@ -36,6 +36,8 @@
       <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="65" />  </a>
     <a href="https://www.mongodb.com/" target="_blank">
       <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="65" />  </a>
+    <a href="https://graphql.org/" target="_blank">
+      <img style="margin: 10px" src="https://graphql.org/img/og-image.png" alt="MongoDB" height="65" />  </a>
   </div>
 
   </td><td valign="top" width="42%">
