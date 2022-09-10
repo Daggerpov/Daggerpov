@@ -12,9 +12,9 @@
 
 <ul>
   <li>🏀 I've always loved playing and watching Basketball</li></br>
-  <li>🎶 I love music & have played the piano, trumpet, and trombone</li></br>
+  <li>♟ Lately I've been playing lots of chess and trying to improve</li></br>
   <li>🧩 Recently learned to solve a Rubik's cube</li></br>
-  <li>😅 The nickname Daggerpov was given to me by a friend</li></br>
+  <li>🎶 I love music & have played the piano, trumpet, and trombone</li></br>
   <li>💻 Started coding at 14; typing speed is ~125 WPM (words/minute)</li>
 </h4>
 
