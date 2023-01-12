@@ -8,7 +8,7 @@
     </a>
 </h2>
 
-<!-- <img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> currently not working due to this issue: https://github.com/anuraghazra/github-readme-stats/issues/2379--> 
+<!-- <img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> currently not working due to this issue: https://github.com/anuraghazra/github-readme-stats/issues/2379 --> 
 
 <ul>
   <li>🏀 I've always loved playing and watching Basketball</li></br>
