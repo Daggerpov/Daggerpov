@@ -1,6 +1,6 @@
 <!-- target="_blank" doesn't appear to work in this markdown language, and neither do rel="external" or onclick="window.open(this.href,'_blank');return false;"!-->
 
-<h2>Here are some fun facts about me:
+<h2>Here are some of my hobbies:
     <a href="https://www.linkedin.com/in/danielagapov" target="_blank">
       <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>   </a>
     <a href="https://www.instagram.com/ldh_codeclub/" target="_blank">
@@ -8,12 +8,12 @@
     </a>
 </h2>
 
-<img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" />
+<!-- <img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> currently not working due to this issue: https://github.com/anuraghazra/github-readme-stats/issues/2379--> 
 
 <ul>
   <li>🏀 I've always loved playing and watching Basketball</li></br>
-  <li>♟ Lately I've been playing lots of chess and trying to improve</li></br>
-  <li>🧩 Recently learned to solve a Rubik's cube</li></br>
+  <li>♟ Lately I've been playing lots of chess and ping pong</li></br>
+  <li>🧩 I recently learned to solve a Rubik's cube</li></br>
   <li>🎶 I love music & have played the piano, trumpet, and trombone</li></br>
   <li>💻 Started coding at 14; typing speed is ~125 WPM (words/minute)</li>
 </h4>
