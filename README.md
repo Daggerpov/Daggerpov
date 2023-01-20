@@ -13,9 +13,9 @@
 
 <ul>
   <li>🏀 I've always loved playing and watching Basketball</li></br>
-  <li>♟ Lately I've been playing lots of chess and ping pong</li></br>
+  <li>♟ Lately I've been playing chess consistently and improving</li></br>
   <li>🧩 I recently learned to solve a Rubik's cube</li></br>
-  <li>🎶 I love music & have played the piano, trumpet, and trombone</li></br>
+  <li>🎶 I love music, from Classical to Jazz to Rap; I also play piano</li></br>
   <li>💻 Started coding at 14; typing speed is ~125 WPM (words/minute)</li>
 </h4>
 
@@ -34,11 +34,11 @@
     <a href="https://www.mongodb.com/" target="_blank">
       <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="65" />  </a>
     <a href="https://www.java.com/en/" target="_blank">
-      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="65" />  </a>
+      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="75" />  </a>
     <a href="https://www.postgresql.org/" target="_blank">
-      <img style="margin: 10px" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" alt="PostgreSQL" height="75" />  </a>
+      <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.png" alt="PostgreSQL" height="80" />  </a>
     <a href="https://www.prisma.io/" target="_blank">
-      <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Docker" height="60" />  </a>
+      <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Docker" height="55" />  </a>
     
   </div>
 
@@ -70,9 +70,9 @@
     <a href="https://github.com/pygame/pygame" target="_blank">
       <img style="margin: 10px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="Pygame" height="55" />  </a>
     <a href="https://www.python.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />  </a>
-    <a href="https://graphql.org/" target="_blank">
-      <img style="margin: 10px" src="https://graphql.org/img/og-image.png" alt="MongoDB" height="65" />  </a>
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" />  </a>
+    <a href="https://graphql.org/" target="_blank"
+      <img style="margin: 10px" src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png" alt="MongoDB" height="70" />  </a>
 
   </td><td valign="top" width="30%">
 
@@ -92,4 +92,4 @@
       
   </div>
 
-</td></tr></table>  
+</td></tr></table>   
