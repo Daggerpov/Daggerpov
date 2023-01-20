@@ -8,7 +8,8 @@
     </a>
 </h2>
 
-<!-- <img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> currently not working due to this issue: https://github.com/anuraghazra/github-readme-stats/issues/2379 --> 
+<img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> 
+<!-- currently not working due to this issue: https://github.com/anuraghazra/github-readme-stats/issues/2379  -->
 
 <ul>
   <li>🏀 I've always loved playing and watching Basketball</li></br>
@@ -24,26 +25,29 @@
     
   # Currently Using  
   <div align="center">  
-    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  </a>
-    <a href="https://www.python.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />  </a>
     <a href="https://reactjs.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
     <a href="https://firebase.google.com/" target="_blank">
       <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="65" />  </a>
     <a href="https://www.mongodb.com/" target="_blank">
       <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="65" />  </a>
-    <a href="https://graphql.org/" target="_blank">
-      <img style="margin: 10px" src="https://graphql.org/img/og-image.png" alt="MongoDB" height="65" />  </a>
+    <a href="https://www.java.com/en/" target="_blank">
+      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="65" />  </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img style="margin: 10px" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" alt="PostgreSQL" height="75" />  </a>
+    <a href="https://www.prisma.io/" target="_blank">
+      <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Docker" height="60" />  </a>
+    
   </div>
 
   </td><td valign="top" width="42%">
 
   # Have Used  
   <div align="center">  
+    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" />  </a>
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
@@ -60,13 +64,15 @@
       <img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="70" />  </a>
     <a href="https://www.selenium.dev/" target="_blank">
       <img style="margin: 10px" src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/banner-selenium.png" alt="Selenium" height="50" />  </a>
-    <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank">
-      <img style="margin: 10px" src="https://miro.medium.com/max/1045/1*jN3vLj7R8m9BEpOJuMJT-w.png" alt="BeautifulSoup" height="50" />  </a>
+<!--     <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank">
+      <img style="margin: 10px" src="https://miro.medium.com/max/1045/1*jN3vLj7R8m9BEpOJuMJT-w.png" alt="BeautifulSoup" height="50" />  </a> -->
   </div>
     <a href="https://github.com/pygame/pygame" target="_blank">
       <img style="margin: 10px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="Pygame" height="55" />  </a>
-    <a href="https://www.java.com/en/" target="_blank">
-      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="65" />  </a>
+    <a href="https://www.python.org/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />  </a>
+    <a href="https://graphql.org/" target="_blank">
+      <img style="margin: 10px" src="https://graphql.org/img/og-image.png" alt="MongoDB" height="65" />  </a>
 
   </td><td valign="top" width="30%">
 
