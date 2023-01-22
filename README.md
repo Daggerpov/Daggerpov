@@ -1,6 +1,6 @@
 <!-- target="_blank" doesn't appear to work in this markdown language, and neither do rel="external" or onclick="window.open(this.href,'_blank');return false;"!-->
 
-<h2>Here are some of my hobbies:
+<h2>Hello and welcome! Here are some of my hobbies:
     <a href="https://www.linkedin.com/in/danielagapov" target="_blank">
       <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>   </a>
     <a href="https://www.instagram.com/ldh_codeclub/" target="_blank">
@@ -21,7 +21,7 @@
 
 </br>
 <table><tr>
-  <td bg="D4AF37" valign="top" width="28%">
+  <td bg="D4AF37" valign="top" width="32%">
     
   # Currently Using  
   <div align="center">  
@@ -42,7 +42,7 @@
     
   </div>
 
-  </td><td valign="top" width="42%">
+  </td><td valign="top" width="38%">
 
   # Have Used  
   <div align="center">  
@@ -87,7 +87,7 @@
     <a href="https://tauri.app/" target="_blank">
       <img style="margin: 10px" src="https://user-images.githubusercontent.com/53918934/175796535-e2cf14c9-fe1b-49ed-950c-2aeddf1817a6.png" alt="Tauri" height="65" />  </a>
     <a href="https://www.djangoproject.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="100" />  </a>
+      <img style="margin: 10px" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django" height="60" />  </a>
       
       
   </div>
