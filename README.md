@@ -15,7 +15,7 @@
   <li>🏀 I've always loved playing and watching Basketball</li></br>
   <li>♟ Lately, I've been playing chess consistently and improving</li></br>
   <li>🧩 I recently learned to solve a Rubik's cube</li></br>
-  <li>🎶 I love music, from Classical to Jazz to Rap; I also play piano</li></br>
+  <li>🎶 I love music, from Classical to Jazz to Rap, and I play the piano</li></br>
   <li>💻 Started coding at 14; peak typing speed is ~150 words/minute</li>
 </h4>
 
