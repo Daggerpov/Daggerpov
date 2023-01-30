@@ -13,10 +13,10 @@
 
 <ul>
   <li>🏀 I've always loved playing and watching Basketball</li></br>
-  <li>♟ Lately I've been playing chess consistently and improving</li></br>
+  <li>♟ Lately, I've been playing chess consistently and improving</li></br>
   <li>🧩 I recently learned to solve a Rubik's cube</li></br>
   <li>🎶 I love music, from Classical to Jazz to Rap; I also play piano</li></br>
-  <li>💻 Started coding at 14; typing speed is ~125 WPM (words/minute)</li>
+  <li>💻 Started coding at 14; peak typing speed is ~150 words/minute</li>
 </h4>
 
 </br>
@@ -36,7 +36,7 @@
     <a href="https://www.java.com/en/" target="_blank">
       <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="75" />  </a>
     <a href="https://www.postgresql.org/" target="_blank">
-      <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.png" alt="PostgreSQL" height="80" />  </a>
+      <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.png" alt="PostgreSQL" height="70" />  </a>
     <a href="https://www.prisma.io/" target="_blank">
       <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Docker" height="55" />  </a>
     
