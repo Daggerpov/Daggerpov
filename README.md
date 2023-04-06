@@ -29,16 +29,16 @@
        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  </a>
     <a href="https://reactjs.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
-    <a href="https://firebase.google.com/" target="_blank">
-      <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="65" />  </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="65" />  </a>
     <a href="https://www.java.com/en/" target="_blank">
       <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="75" />  </a>
     <a href="https://www.postgresql.org/" target="_blank">
       <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.png" alt="PostgreSQL" height="70" />  </a>
     <a href="https://www.prisma.io/" target="_blank">
       <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Docker" height="55" />  </a>
+    <a href="https://go.dev/" target="_blank">
+      <img style="margin: 10px" src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png" alt="Go" height="115" />  </a>
+    <a href="https://developer.apple.com/swift/" target="_blank">
+      <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2PnJBG_ax78RPAzZrkIs2rVpTiVhaGO8pw&usqp=CAU" alt="Swift" height="70" />  </a>
     
   </div>
 
@@ -72,7 +72,11 @@
     <a href="https://www.python.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" />  </a>
     <a href="https://graphql.org/" target="_blank"
-      <img style="margin: 10px" src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png" alt="MongoDB" height="70" />  </a>
+      <img style="margin: 10px" src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png" alt="GraphQL" height="70" />  </a>
+    <a href="https://firebase.google.com/" target="_blank">
+      <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="65" />  </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="65" />  </a>
 
   </td><td valign="top" width="30%">
 
