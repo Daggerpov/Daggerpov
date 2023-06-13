@@ -9,14 +9,13 @@
 </h2>
 
 <img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> 
-<!-- currently not working due to this issue: https://github.com/anuraghazra/github-readme-stats/issues/2379  -->
 
 <ul>
   <li>🏀 I've always loved playing and watching Basketball</li></br>
   <li>♟ Lately, I've been playing chess consistently and improving</li></br>
   <li>🧩 I recently learned to solve a Rubik's cube</li></br>
   <li>🎶 I love music, from Classical to Jazz to Rap, and I play the piano</li></br>
-  <li>💻 Started coding at 14; peak typing speed is ~150 words/minute</li>
+  <li>💻 Started coding at 14; peak typing speed is 152 words/minute</li>
 </h4>
 
 </br>
@@ -40,7 +39,7 @@
     
   </div>
 
-  </td><td valign="top" width="38%">
+  </td><td valign="top" width="42%">
 
   # Have Used  
   <div align="center">  
@@ -60,8 +59,6 @@
       <img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="70" />  </a>
     <a href="https://www.selenium.dev/" target="_blank">
       <img style="margin: 10px" src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/banner-selenium.png" alt="Selenium" height="50" />  </a>
-<!--     <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank">
-      <img style="margin: 10px" src="https://miro.medium.com/max/1045/1*jN3vLj7R8m9BEpOJuMJT-w.png" alt="BeautifulSoup" height="50" />  </a> -->
   </div>
     <a href="https://github.com/pygame/pygame" target="_blank">
       <img style="margin: 10px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="Pygame" height="55" />  </a>
@@ -80,7 +77,7 @@
     <a href="https://www.prisma.io/" target="_blank">
       <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Prisma" height="45" />  </a>
 
-  </td><td valign="top" width="30%">
+  </td><td valign="top" width="26%">
 
   # Learning Interest  
   <div align="center">  
