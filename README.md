@@ -25,20 +25,18 @@
     
   # Currently Using  
   <div align="center">  
-    <a href="https://www.typescriptlang.org/" target="_blank">
-       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
-    <a href="https://www.java.com/en/" target="_blank">
-      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="75" />  </a>
     <a href="https://www.postgresql.org/" target="_blank">
       <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.png" alt="PostgreSQL" height="70" />  </a>
-    <a href="https://www.prisma.io/" target="_blank">
-      <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Docker" height="55" />  </a>
     <a href="https://go.dev/" target="_blank">
       <img style="margin: 10px" src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png" alt="Go" height="115" />  </a>
     <a href="https://developer.apple.com/swift/" target="_blank">
       <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2PnJBG_ax78RPAzZrkIs2rVpTiVhaGO8pw&usqp=CAU" alt="Swift" height="70" />  </a>
+    <a href="https://www.python.org/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" />  </a>
+    <a href="https://www.djangoproject.com/" target="_blank">
+      <img style="margin: 10px" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django" height="55" />  </a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  </a>
     
   </div>
 
@@ -46,8 +44,6 @@
 
   # Have Used  
   <div align="center">  
-    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" />  </a>
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
@@ -69,14 +65,20 @@
   </div>
     <a href="https://github.com/pygame/pygame" target="_blank">
       <img style="margin: 10px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="Pygame" height="55" />  </a>
-    <a href="https://www.python.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" />  </a>
     <a href="https://graphql.org/" target="_blank"
       <img style="margin: 10px" src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png" alt="GraphQL" height="70" />  </a>
     <a href="https://firebase.google.com/" target="_blank">
       <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="65" />  </a>
     <a href="https://www.mongodb.com/" target="_blank">
       <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="65" />  </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  </a>
+    <a href="https://reactjs.org/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
+    <a href="https://www.java.com/en/" target="_blank">
+      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="75" />  </a>
+    <a href="https://www.prisma.io/" target="_blank">
+      <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Prisma" height="45" />  </a>
 
   </td><td valign="top" width="30%">
 
@@ -90,8 +92,6 @@
       <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.png" alt="Rust" height="70" />  </a>
     <a href="https://tauri.app/" target="_blank">
       <img style="margin: 10px" src="https://user-images.githubusercontent.com/53918934/175796535-e2cf14c9-fe1b-49ed-950c-2aeddf1817a6.png" alt="Tauri" height="65" />  </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
-      <img style="margin: 10px" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django" height="60" />  </a>
       
       
   </div>
