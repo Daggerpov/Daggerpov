@@ -37,6 +37,10 @@
       <img style="margin: 10px" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django" height="55" />  </a>
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" />  </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C" height="60" />  </a>
     
   </div>
 
@@ -44,8 +48,6 @@
 
   # Have Used  
   <div align="center">  
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" />  </a>
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />  </a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
@@ -74,9 +76,11 @@
     <a href="https://reactjs.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
     <a href="https://www.java.com/en/" target="_blank">
-      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Docker" height="75" />  </a>
+      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java" height="75" />  </a>
     <a href="https://www.prisma.io/" target="_blank">
       <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Prisma" height="45" />  </a>
+    <a href="https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=namer&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQjw4eaJBhDMARIsANhrQADDCjR1Vha919pu7dDck1bMv_7L4N1a2LPmlQ3yM3P8kW3Zxwp0SN8aAvH-EALw_wcB" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" />  </a>
 
   </td><td valign="top" width="26%">
 
@@ -84,8 +88,6 @@
   <div align="center">  
     <a href="https://www.tensorflow.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="65" />  </a>
-    <a href="https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=namer&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQjw4eaJBhDMARIsANhrQADDCjR1Vha919pu7dDck1bMv_7L4N1a2LPmlQ3yM3P8kW3Zxwp0SN8aAvH-EALw_wcB" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" />  </a>
     <a href="https://www.rust-lang.org/" target="_blank">
       <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.png" alt="Rust" height="70" />  </a>
     <a href="https://tauri.app/" target="_blank">
