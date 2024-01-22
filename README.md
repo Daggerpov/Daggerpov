@@ -10,9 +10,10 @@
 
 <img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> 
 
-<ul>
+<ul>  
   <li>🏀 I've always loved playing and watching Basketball</li></br>
   <li>♟ Lately, I've been playing chess consistently and improving</li></br>
+  <li>👨‍🍳 Cooking is something I've been enjoying doing a lot lately</li></br>
   <li>🧩 I recently learned to solve a Rubik's cube</li></br>
   <li>🎶 I love music, from Classical to Jazz to Rap, and I play the piano</li></br>
   <li>💻 Started coding at 14; peak typing speed is 152 words/minute</li>
@@ -61,7 +62,7 @@
       <img style="margin: 10px" src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/banner-selenium.png" alt="Selenium" height="50" />  </a>
   </div>
     <a href="https://github.com/pygame/pygame" target="_blank">
-      <img style="margin: 10px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="Pygame" height="55" />  </a>
+      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pygame_logo.svg/512px-Pygame_logo.svg.png" alt="Pygame" height="55" />  </a>
     <a href="https://graphql.org/" target="_blank"
       <img style="margin: 10px" src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png" alt="GraphQL" height="70" />  </a>
     <a href="https://firebase.google.com/" target="_blank">
