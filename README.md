@@ -26,7 +26,7 @@
   # Currently Using  
   <div align="center">  
     <a href="https://www.postgresql.org/" target="_blank">
-      <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.png" alt="PostgreSQL" height="70" />  </a>
+      <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsC9Zl9jYsLYXA9lhxDCiJD0Y_PQakXzpzMA&s" alt="PostgreSQL" height="70" />  </a>
     <a href="https://go.dev/" target="_blank">
       <img style="margin: 10px" src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png" alt="Go" height="115" />  </a>
     <a href="https://developer.apple.com/swift/" target="_blank">
