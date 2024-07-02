@@ -31,12 +31,14 @@
       <img style="margin: 10px" src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png" alt="Go" height="115" />  </a>
     <a href="https://developer.apple.com/swift/" target="_blank">
       <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2PnJBG_ax78RPAzZrkIs2rVpTiVhaGO8pw&usqp=CAU" alt="Swift" height="70" />  </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" />  </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="65" />  </a>
-    <a href="https://www.java.com/en/" target="_blank">
-      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java" height="75" />  </a>
+    <a href="https://reactjs.org/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
+    <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank">
+      <img style="margin: 10px" src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg" alt="SQL" height="70" />.  </a>
+    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
+      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-Sharp" height="70" />.  </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  </a>
     
   </div>
 
@@ -67,10 +69,6 @@
       <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="65" />  </a>
     <a href="https://www.mongodb.com/" target="_blank">
       <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="65" />  </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />.  </a>
     <a href="https://www.prisma.io/" target="_blank">
       <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Prisma" height="45" />  </a>
     <a href="https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=namer&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQjw4eaJBhDMARIsANhrQADDCjR1Vha919pu7dDck1bMv_7L4N1a2LPmlQ3yM3P8kW3Zxwp0SN8aAvH-EALw_wcB" target="_blank">
@@ -81,6 +79,12 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  </a>
     <a href="https://www.python.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" />  </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" />  </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="65" />  </a>
+    <a href="https://www.java.com/en/" target="_blank">
+      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java" height="75" />  </a>
 
   </td>
 
