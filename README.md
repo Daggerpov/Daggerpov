@@ -28,7 +28,7 @@
     <a href="https://www.postgresql.org/" target="_blank">
       <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsC9Zl9jYsLYXA9lhxDCiJD0Y_PQakXzpzMA&s" alt="PostgreSQL" height="70" />  </a>
     <a href="https://go.dev/" target="_blank">
-      <img style="margin: 10px" src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png" alt="Go" height="115" />  </a>
+      <img style="margin: 10px" src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png" alt="Go" height="90" />  </a>
     <a href="https://developer.apple.com/swift/" target="_blank">
       <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2PnJBG_ax78RPAzZrkIs2rVpTiVhaGO8pw&usqp=CAU" alt="Swift" height="70" />  </a>
     <a href="https://reactjs.org/" target="_blank">
@@ -36,7 +36,7 @@
     <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank">
       <img style="margin: 10px" src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg" alt="SQL" height="70" />.  </a>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
-      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-Sharp" height="70" />.  </a>
+      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-Sharp" height="100" />.  </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  </a>
     
