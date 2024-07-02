@@ -21,7 +21,7 @@
 
 </br>
 <table><tr>
-  <td bg="D4AF37" valign="top" width="32%">
+  <td bg="D4AF37" valign="top" width="35%">
     
   # Currently Using  
   <div align="center">  
@@ -42,7 +42,7 @@
     
   </div>
 
-  </td><td valign="top" width="68%">
+  </td><td valign="top" width="65%">
 
   # Have Used  
   <div align="center">  
