@@ -3,8 +3,8 @@
 <h2>Hello! Here are some of my hobbies:
     <a href="https://www.linkedin.com/in/danielagapov" target="_blank">
       <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>   </a>
-    <a href="https://www.instagram.com/ldh_codeclub/" target="_blank">
-      <img align="right" src=https://img.shields.io/badge/LDH_CodeClub-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>
+<!--     <a href="https://www.instagram.com/ldh_codeclub/" target="_blank">
+      <img align="right" src=https://img.shields.io/badge/LDH_CodeClub-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/> -->
     </a>
 </h2>
 
@@ -105,4 +105,6 @@
 
 
 <h2>Lately, I've been working on my app, Quote Droplet (available for iPhone, iPad, and Mac):</h2>
-<a href="https://apps.apple.com/us/app/quote-droplet/id6455084603?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/e3/89/0ae38949-3c0a-0351-879f-bf19a077c912/AppIcon-1x_U007epad-0-85-220-0.jpeg/540x540bb.jpg" alt="Quote Droplet" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a><a href="https://apps.apple.com/us/app/quote-droplet/id6455084603?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1691884800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a> 
+<!-- <a href="https://apps.apple.com/us/app/quote-droplet/id6455084603?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/e3/89/0ae38949-3c0a-0351-879f-bf19a077c912/AppIcon-1x_U007epad-0-85-220-0.jpeg/540x540bb.jpg" alt="Quote Droplet" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a> -->
+
+<a href="https://apps.apple.com/us/app/quote-droplet/id6455084603?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1691884800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a> 
