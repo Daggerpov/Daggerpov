@@ -16,7 +16,7 @@
   <li>👨‍🍳 Cooking is something I've been enjoying doing a lot lately</li></br>
   <li>🧩 I recently learned to solve a Rubik's cube</li></br>
   <li>🎶 I love music, from Classical to Jazz to Rap, and I play the piano</li></br>
-  <li>💻 Started coding at 14; peak typing speed is 152 words/minute</li>
+  <li>💻 Started coding at 14; peak typing speed is 164 words/minute</li>
 </h4>
 
 </br>
