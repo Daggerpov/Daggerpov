@@ -1,6 +1,6 @@
 <!-- target="_blank" doesn't appear to work in this markdown language, and neither do rel="external" or onclick="window.open(this.href,'_blank');return false;"!-->
 
-<h2>Hello! Here are some of my hobbies:
+<h2>Welcome to my GitHub!
     <a href="https://www.linkedin.com/in/danielagapov" target="_blank">
       <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>   </a>
 <!--     <a href="https://www.instagram.com/ldh_codeclub/" target="_blank">
@@ -8,16 +8,33 @@
     </a>
 </h2>
 
-<img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> 
+<div style="display: flex; justify-content: space-between; padding: 20px;">
+
+<div style="display: flex; flex-direction: column; align-items: flex-end;">
+
+<img align="right" alt="Daggerpov's GitHub Stats" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api?username=Daggerpov&hide_rank=true&hide=contribs&theme=tokyonight&layout=compact"/>
+<img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> 
+
+</div>
+
+<div style="max-width: 600px;">
+
+<p>I'm a Computer Science student at UBC and Software Engineer Intern who's very passionate about coding and software development. <br></p>
+<h3>Outside of work, these are my hobbies: </h3>
 
 <ul>  
-  <li>🏀 I've always loved playing and watching Basketball</li></br>
-  <li>♟ Lately, I've been playing chess consistently and improving</li></br>
-  <li>👨‍🍳 Cooking is something I've been enjoying doing a lot lately</li></br>
-  <li>🧩 I recently learned to solve a Rubik's cube</li></br>
-  <li>🎶 I love music, from Classical to Jazz to Rap, and I play the piano</li></br>
-  <li>💻 Started coding at 14; peak typing speed is 164 words/minute</li>
+  <li>🏃 - I love lifting weights and staying active</li></br>
+  <li>🧩 - I recently learned to solve a Rubik's cube</li></br>
+  <li>🏀 - I've always loved playing and watching basketball</li></br>
+  <li>👨‍🍳 - I really enjoy cooking for myself, friends, and family</li></br>
+  <li>♟  - Lately, I've been playing chess consistently and improving</li></br>
+  <li>🎶 - I love music, from Classical to Jazz to Rap, and I play the piano</li></br>
+  <li>💻 - I Started coding at 14 and I'm big into typing (~150 WPM) & Vim</li>
 </h4>
+
+</div>
+
+</div>
 
 </br>
 <table><tr>
@@ -108,7 +125,13 @@
 </td></tr></table>   
 
 
-<h2>Lately, I've been working on my app, Quote Droplet (available for iPhone, iPad, and Mac):</h2>
+<h3>Lately, I've been working on my iOS/Mac app, Quote Droplet (code not public on GitHub):</h3>
 <!-- <a href="https://apps.apple.com/us/app/quote-droplet/id6455084603?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/e3/89/0ae38949-3c0a-0351-879f-bf19a077c912/AppIcon-1x_U007epad-0-85-220-0.jpeg/540x540bb.jpg" alt="Quote Droplet" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a> -->
 
-<a href="https://apps.apple.com/us/app/quote-droplet/id6455084603?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1691884800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a> 
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px;">
+  <a href="https://apps.apple.com/us/app/quote-droplet/id6455084603?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block;">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1691884800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px; display: block;">
+  </a>
+</div>
+
+
