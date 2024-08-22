@@ -15,14 +15,14 @@
 <div align="center">
 
 <img align="right" alt="Daggerpov's GitHub Stats" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api?username=Daggerpov&hide_rank=true&hide=contribs&theme=tokyonight&layout=compact"/>
-<img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> 
+<img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&langs_count=10&hide_progress=true&hide=Objective-C,HTML,css&theme=tokyonight&layout=compact" /> 
 
 </div>
 
 <div style="max-width: 600px;">
 
-<p>I'm a Computer Science student at UBC and Software Engineer Intern who's very passionate about coding and software development. <br></p>
-<h3>Outside of work, these are my hobbies: </h3>
+<!--<p>I'm a Computer Science student at UBC and Software Engineer Intern who's very passionate about coding and software development. <br></p>-->
+<!--<h3>Apart from coding, these are my hobbies: </h3>-->
 
 <ul>  
   <li>🏃 - I love lifting weights and staying active</li></br>
