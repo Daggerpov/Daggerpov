@@ -1,6 +1,6 @@
 <!-- target="_blank" doesn't appear to work in this markdown language, and neither do rel="external" or onclick="window.open(this.href,'_blank');return false;"!-->
 
-<h2>Welcome to my GitHub!
+<h2>Hey, welcome to my GitHub!
     <a href="https://www.linkedin.com/in/danielagapov" target="_blank">
       <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>   </a>
 <!--     <a href="https://www.instagram.com/ldh_codeclub/" target="_blank">
@@ -8,9 +8,11 @@
     </a>
 </h2>
 
-<div style="display: flex; justify-content: space-between; padding: 20px;">
+<!-- <div style="display: flex; justify-content: space-between; padding: 20px;">
 
-<div style="display: flex; flex-direction: column; align-items: flex-end;">
+<div style="display: flex; flex-direction: column; align-items: flex-end;"> -->
+
+<div align="center">
 
 <img align="right" alt="Daggerpov's GitHub Stats" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api?username=Daggerpov&hide_rank=true&hide=contribs&theme=tokyonight&layout=compact"/>
 <img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api/top-langs?username=Daggerpov&show_icons=true&theme=tokyonight&layout=compact" /> 
@@ -34,7 +36,7 @@
 
 </div>
 
-</div>
+<!-- </div> -->
 
 </br>
 <table><tr>
