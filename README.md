@@ -1,6 +1,6 @@
 <!-- target="_blank" doesn't appear to work in this markdown language, and neither do rel="external" or onclick="window.open(this.href,'_blank');return false;"!-->
 
-<h2>Hey, welcome to my GitHub!
+<h2>Hey, welcome to my GitHub portfolio!
     <a href="https://www.linkedin.com/in/danielagapov" target="_blank">
       <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>   </a>
 <!--     <a href="https://www.instagram.com/ldh_codeclub/" target="_blank">
