@@ -128,12 +128,23 @@
 
 
 <h3>Lately, I've been working on my iOS/Mac app, Quote Droplet (code not public on GitHub):</h3>
-<!-- <a href="https://apps.apple.com/us/app/quote-droplet/id6455084603?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/e3/89/0ae38949-3c0a-0351-879f-bf19a077c912/AppIcon-1x_U007epad-0-85-220-0.jpeg/540x540bb.jpg" alt="Quote Droplet" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a> -->
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px;">
+    <a href="https://apps.apple.com/us/app/quote-droplet-daily-quotes/id6455084603?itscg=30200&itsct=apps_box_badge&mttnsubad=6455084603" style="display: inline-block;">
+        <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1691884800" alt="Download on the App Store" style="width: 246px; height: 82px; vertical-align: middle; object-fit: contain;" />
+    </a>
+</div>
+
+
+<!-- <a href="https://apps.apple.com/us/app/quote-droplet/id6455084603?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/e3/89/0ae38949-3c0a-0351-879f-bf19a077c912/AppIcon-1x_U007epad-0-85-220-0.jpeg/540x540bb.jpg" alt="Quote Droplet" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a> -->
+
+<!--<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px;">
   <a href="https://apps.apple.com/us/app/quote-droplet/id6455084603?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block;">
     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1691884800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px; display: block;">
   </a>
-</div>
+</div>-->
+
+
+    
 
 
