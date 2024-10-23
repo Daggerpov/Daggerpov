@@ -127,7 +127,7 @@
 </td></tr></table>   
 
 
-<h3>Lately, I've been working on my iOS/Mac app, Quote Droplet (code not public on GitHub):</h3>
+<h3>Lately, I've been working on my iOS/Mac app, Quote Droplet (see repos on GitHub):</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px;">
     <a href="https://apps.apple.com/us/app/quote-droplet-daily-quotes/id6455084603?itscg=30200&itsct=apps_box_badge&mttnsubad=6455084603" style="display: inline-block;">
