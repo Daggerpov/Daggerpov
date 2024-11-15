@@ -56,8 +56,17 @@
       <img style="margin: 10px" src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg" alt="SQL" height="70" />.  </a>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
       <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-Sharp" height="100" />.  </a>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+      <img style="margin: 10px" src="https://www.pulumi.com/logos/tech/dotnet.png" alt="Java" height="75" />  </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  </a>
+    <a href="https://www.java.com/en/" target="_blank">
+      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java" height="75" />  </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank">
+      <img style="margin: 10px" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0byivlv33yryv67sz4g5.png" alt="Java" height="65" />  </a>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img style="margin: 10px" src="https://banner2.cleanpng.com/20180614/bgj/aa7ffc9id.webp" alt="Java" height="75" />  </a>
+    
     
   </div>
 
@@ -102,8 +111,6 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" />  </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
       <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="65" />  </a>
-    <a href="https://www.java.com/en/" target="_blank">
-      <img style="margin: 10px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java" height="75" />  </a>
 
   </td>
 
