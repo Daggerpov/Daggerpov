@@ -14,15 +14,20 @@
 
 <div align="center">
 
-<img align="right" alt="Daggerpov's GitHub Stats" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api?username=Daggerpov&show_icons=true&hide_rank=true&number_format=long&include_all_commits=true&hide=contribs&theme=tokyonight&layout=compact"/>
-<img align="right" alt="Daggerpov's Top Languages" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api/top-langs?username=Daggerpov&card_width=200px&show_icons=true&langs_count=10&hide_progress=true&hide=Objective-C,HTML,css&theme=tokyonight&layout=compact" /> 
+<img align="left" alt="Daggerpov's GitHub Stats" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api?username=Daggerpov&show_icons=true&hide_rank=true&number_format=long&include_all_commits=true&hide=contribs&theme=tokyonight&layout=compact"/>
+<img align="left" alt="Daggerpov's Top Languages" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api/top-langs?username=Daggerpov&card_width=200px&show_icons=true&langs_count=10&hide_progress=true&hide=Objective-C,HTML,css&theme=tokyonight&layout=compact" /> 
 
 </div>
 
-<div style="max-width: 600px;">
+<br clear="all"/>
 
-<!--<p>I'm a Computer Science student at UBC and Software Engineer Intern who's very passionate about coding and software development. <br></p>-->
-<!--<h3>Apart from coding, these are my hobbies: </h3>-->
+
+<div>
+
+</br>
+
+<p>I'm a Computer Science student at UBC, and am very passionate about coding and software development. <br></p>
+<h3>My life outside of coding: </h3>
 
 <ul>  
   <li>🏃 - I love lifting weights and staying active</li></br>
@@ -96,7 +101,7 @@
     <a href="https://firebase.google.com/" target="_blank">
       <img style="margin: 10px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" height="65" />  </a>
     <a href="https://www.mongodb.com/" target="_blank">
-      <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="65" />  </a>
+      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" height="65" />  </a>
     <a href="https://www.prisma.io/" target="_blank">
       <img style="margin: 10px" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="Prisma" height="45" />  </a>
     <a href="https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=namer&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQjw4eaJBhDMARIsANhrQADDCjR1Vha919pu7dDck1bMv_7L4N1a2LPmlQ3yM3P8kW3Zxwp0SN8aAvH-EALw_wcB" target="_blank">
