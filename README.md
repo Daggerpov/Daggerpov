@@ -14,8 +14,8 @@
 
 <div align="center">
 
-<img align="left" alt="Daggerpov's GitHub Stats" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api?username=Daggerpov&show_icons=true&hide_rank=true&number_format=long&include_all_commits=true&hide=contribs&theme=tokyonight&layout=compact"/>
 <img align="left" alt="Daggerpov's Top Languages" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api/top-langs?username=Daggerpov&card_width=200px&show_icons=true&langs_count=10&hide_progress=true&hide=Objective-C,HTML,css&theme=tokyonight&layout=compact" /> 
+<img align="left" alt="Daggerpov's GitHub Stats" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api?username=Daggerpov&show_icons=true&hide_rank=true&number_format=long&include_all_commits=true&hide=contribs&theme=tokyonight&layout=compact"/>
 
 </div>
 
@@ -26,22 +26,24 @@
 
 </br>
 
-<p>I'm a Computer Science student at UBC, and am very passionate about coding and software development. <br></p>
+<!-- <p>I'm a Computer Science student at UBC, passionate about software development. <br></p> -->
 <h3>My life outside of coding: </h3>
 
 <ul>  
-  <li>🏃 - I love lifting weights and staying active</li></br>
-  <li>🧩 - I recently learned to solve a Rubik's cube</li></br>
-  <li>🏀 - I've always loved playing and watching basketball</li></br>
-  <li>👨‍🍳 - I really enjoy cooking for myself, friends, and family</li></br>
-  <li>♟  - Lately, I've been playing chess consistently and improving</li></br>
-  <li>🎶 - I love music, from Classical to Jazz to Rap, and I play the piano</li></br>
-  <li>💻 - I Started coding at 14 and I'm big into typing (~150 WPM) & Vim</li>
+  <li>🏃   I love lifting weights and staying active</li></br>
+  <li>🌄   
+  <li>🧩   I recently learned to solve a Rubik's cube</li></br>
+  <li>🏀   I've always loved playing and watching basketball</li></br>
+  <li>👨‍🍳   I really enjoy cooking for myself, friends, and family</li></br>
+  <li>♟    Lately, I've been playing chess consistently and improving</li></br>
+  <li>🎶   I love music, mainly RnB & Rap nowadays but used to play Classical & Jazz on the piano</li></br>
+  <li>💻   I started coding at 14 and I'm big into typing (~150 WPM) & Vim</li>
 </h4>
 
 </div>
 
 <!-- </div> -->
+<!--
 
 </br>
 <table><tr>
@@ -131,7 +133,7 @@
   </div>
   -->
 
-</td></tr></table>   
+ </td></tr></table>
 
 
 <h3>Lately, I've been working on my iOS/Mac app, Quote Droplet (see repos on GitHub):</h3>
