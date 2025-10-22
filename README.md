@@ -15,7 +15,7 @@
 <div align="center">
 
 <img align="left" alt="Daggerpov's GitHub Stats" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api?username=Daggerpov&show_icons=true&hide_rank=true&number_format=long&include_all_commits=true&hide=contribs&theme=tokyonight&layout=compact"/>
-<img align="left" alt="Daggerpov's Top Languages" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api/top-langs?username=Daggerpov&card_width=200px&show_icons=true&langs_count=12&hide_progress=true&hide=Objective-C,HTML,css&theme=tokyonight&layout=compact" /> 
+<img align="left" alt="Daggerpov's Top Languages" src="https://github-readme-stats-daggerpovs-projects.vercel.app/api/top-langs?username=Daggerpov&card_width=200px&show_icons=true&langs_count=12&hide_progress=true&hide=HTML,css&theme=tokyonight&layout=compact" /> 
 
 </div>
 
