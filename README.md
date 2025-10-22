@@ -22,7 +22,6 @@
 <br clear="all"/>
 </br>
 </br>
-
 <!-- Apps side by side -->
 <div align="center">
   <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed;">
@@ -34,7 +33,7 @@
           alt="Spawn App Icon" 
           width="287.5" 
           height="160" 
-          style="border-radius: 16px; display: block; margin-bottom: 14px;"
+          style="border-radius: 16px; display: block; margin-bottom: 24px;"
         />
         <a href="https://apps.apple.com/us/app/spawn/id6738635871?itscg=30200&itsct=apps_box_badge&mttnsubad=6738635871">
           <img 
@@ -54,7 +53,7 @@
       alt="Quote Droplet App Icon" 
       width="287.5" 
       height="160" 
-      style="border-radius: 16px; display: block; margin-bottom: 14px;"
+      style="border-radius: 16px; display: block; margin-bottom: 24px;"
     />
     <a href="https://apps.apple.com/us/app/quote-droplet-daily-quotes/id6455084603?itscg=30200&itsct=apps_box_badge&mttnsubad=6455084603">
       <img 
