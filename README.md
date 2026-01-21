@@ -28,13 +28,15 @@
     <tr>
       <!-- Spawn -->
       <td align="center" style="vertical-align: top; padding: 10px 4px; border: none;">
-        <img 
-          src="https://github.com/user-attachments/assets/cd2e97e1-4756-4da9-9fe3-30712ae57538" 
-          alt="Spawn App Icon" 
-          width="287.5" 
-          height="160" 
-          style="border-radius: 16px; display: block; margin-bottom: 24px;"
-        />
+        <a href="https://apps.apple.com/us/app/spawn/id6738635871?itscg=30200&itsct=apps_box_badge&mttnsubad=6738635871">
+            <img 
+              src="https://github.com/user-attachments/assets/cd2e97e1-4756-4da9-9fe3-30712ae57538" 
+              alt="Spawn App Icon" 
+              width="287.5" 
+              height="160" 
+              style="border-radius: 16px; display: block; margin-bottom: 24px;"
+            />
+        </a>
         <a href="https://apps.apple.com/us/app/spawn/id6738635871?itscg=30200&itsct=apps_box_badge&mttnsubad=6738635871">
           <img 
             src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1755648000" 
@@ -48,13 +50,15 @@
 
   <!-- Quote Droplet -->
   <td align="center" style="vertical-align: top; padding: 10px 4px; border: none;">
-    <img 
-      src="https://github.com/user-attachments/assets/0b393a0e-a080-45d2-8553-e2139bfccca8" 
-      alt="Quote Droplet App Icon" 
-      width="287.5" 
-      height="160" 
-      style="border-radius: 16px; display: block; margin-bottom: 24px;"
-    />
+    <a href="https://apps.apple.com/us/app/quote-droplet-daily-quotes/id6455084603?itscg=30200&itsct=apps_box_badge&mttnsubad=6455084603">
+        <img 
+          src="https://github.com/user-attachments/assets/0b393a0e-a080-45d2-8553-e2139bfccca8" 
+          alt="Quote Droplet App Icon" 
+          width="287.5" 
+          height="160" 
+          style="border-radius: 16px; display: block; margin-bottom: 24px;"
+        />
+    </a>
     <a href="https://apps.apple.com/us/app/quote-droplet-daily-quotes/id6455084603?itscg=30200&itsct=apps_box_badge&mttnsubad=6455084603">
       <img 
         src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1691884800" 
