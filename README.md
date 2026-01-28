@@ -24,17 +24,16 @@
 </br>
 <!-- Apps side by side -->
 <div align="center">
-  <table style="border: none; border-collapse: collapse; width: 100%; table-layout: auto;">
+  <table>
     <tr>
-      <!-- Spawn -->
-      <td align="center" style="vertical-align: top; padding: 10px 4px; border: none;">
+      <td align="center" valign="top">
         <a href="https://apps.apple.com/us/app/spawn/id6738635871?itscg=30200&itsct=apps_box_badge&mttnsubad=6738635871">
             <img 
               src="https://github.com/user-attachments/assets/cd2e97e1-4756-4da9-9fe3-30712ae57538" 
               alt="Spawn App Icon" 
               width="287.5" 
               height="160" 
-              style="border-radius: 16px; display: block; margin-bottom: 24px;"
+              style="border-radius: 6px; display: block; margin-bottom: 24px;"
             />
         </a>
         <a href="https://apps.apple.com/us/app/spawn/id6738635871?itscg=30200&itsct=apps_box_badge&mttnsubad=6738635871">
@@ -46,17 +45,15 @@
             style="object-fit: contain; display: block; margin: 0 auto;"
           />
         </a>
-      </td>
-
-  <!-- Quote Droplet -->
-  <td align="center" style="vertical-align: top; padding: 10px 4px; border: none;">
+  </td>
+<td align="center" valign="top">
     <a href="https://apps.apple.com/us/app/quote-droplet-daily-quotes/id6455084603?itscg=30200&itsct=apps_box_badge&mttnsubad=6455084603">
         <img 
           src="https://github.com/user-attachments/assets/0b393a0e-a080-45d2-8553-e2139bfccca8" 
           alt="Quote Droplet App Icon" 
           width="287.5" 
           height="160" 
-          style="border-radius: 16px; display: block; margin-bottom: 24px;"
+          style="border-radius: 6px; display: block; margin-bottom: 24px;"
         />
     </a>
     <a href="https://apps.apple.com/us/app/quote-droplet-daily-quotes/id6455084603?itscg=30200&itsct=apps_box_badge&mttnsubad=6455084603">
@@ -69,14 +66,15 @@
       />
     </a>
   </td>
-</tr>
+    </tr>
   </table>
 </div>
 
-</br>
 
 <p align="center">
   <a href="https://danielagapov.notion.site/learning-software-engineering-5e2294e8ffa342b0bd103aafee808f99?source=copy_link" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3182de1d-6130-4455-8157-4bbb882c1dde" height="40%" width="55%">
+      <picture>
+    <img src="https://github.com/user-attachments/assets/f3a830eb-ac9c-40c3-8232-48f2f28b299b" height="40%" width="55% style="border-radius: 12px; display: block;">
+      </picture>
   </a>
 </p>
