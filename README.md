@@ -76,7 +76,7 @@
 </br>
 
 <p align="center">
-  <a href="https://danielagapov.notion.site/Software-Engineering-Learning-5e2294e8ffa342b0bd103aafee808f99?source=copy_link" target="_blank">
-    <img src="https://github.com/user-attachments/assets/0336ab3b-13d5-4412-af71-a2d7cad97362" height="40%" width="55%">
+  <a href="https://danielagapov.notion.site/learning-software-engineering-5e2294e8ffa342b0bd103aafee808f99?source=copy_link" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3182de1d-6130-4455-8157-4bbb882c1dde" height="40%" width="55%">
   </a>
 </p>
