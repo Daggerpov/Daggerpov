@@ -1,6 +1,8 @@
 <!-- target="_blank" doesn't appear to work in this markdown language, and neither do rel="external" or onclick="window.open(this.href,'_blank');return false;"!-->
 
 <h2>Hey, welcome to my GitHub portfolio!
+    <a href="https://www.danielagapov.com">
+      <img align="right" src="https://img.shields.io/badge/danielagapov.com-b4532a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="danielagapov.com" height="40"/></a>
     <a href="https://www.linkedin.com/in/danielagapov" target="_blank">
       <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="40"/>   </a>
 <!--     <a href="https://www.instagram.com/ldh_codeclub/" target="_blank">
@@ -22,53 +24,37 @@
 <br clear="all"/>
 </br>
 </br>
-<!-- Apps side by side -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://apps.apple.com/us/app/spawn/id6738635871?itscg=30200&itsct=apps_box_badge&mttnsubad=6738635871">
-            <img 
-              src="https://github.com/user-attachments/assets/cd2e97e1-4756-4da9-9fe3-30712ae57538" 
-              alt="Spawn App Icon" 
-              width="287.5" 
-              height="160" 
-              style="border-radius: 6px; display: block; margin-bottom: 24px;"
-            />
-        </a>
-        <a href="https://apps.apple.com/us/app/spawn/id6738635871?itscg=30200&itsct=apps_box_badge&mttnsubad=6738635871">
-          <img 
-            src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1755648000" 
-            alt="Download on the App Store" 
-            width="197" 
-            height="66" 
-            style="object-fit: contain; display: block; margin: 0 auto;"
-          />
-        </a>
-  </td>
-<td align="center" valign="top">
-    <a href="https://apps.apple.com/us/app/quote-droplet-daily-quotes/id6455084603?itscg=30200&itsct=apps_box_badge&mttnsubad=6455084603">
-        <img 
-          src="https://github.com/user-attachments/assets/0b393a0e-a080-45d2-8553-e2139bfccca8" 
-          alt="Quote Droplet App Icon" 
-          width="287.5" 
-          height="160" 
-          style="border-radius: 6px; display: block; margin-bottom: 24px;"
-        />
-    </a>
-    <a href="https://apps.apple.com/us/app/quote-droplet-daily-quotes/id6455084603?itscg=30200&itsct=apps_box_badge&mttnsubad=6455084603">
-      <img 
-        src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1691884800" 
-        alt="Download on the App Store" 
-        width="197" 
-        height="66" 
-        style="object-fit: contain; display: block; margin: 0 auto;"
-      />
-    </a>
-  </td>
-    </tr>
-  </table>
-</div>
+<!-- Apps: preview cards made from the screenshots on danielagapov.com -->
+<h3 align="center">Apps I've built</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/ca/app/spawn/id6738635871"><img src="assets/spawn.webp" alt="Spawn home feed" width="100%"/></a>
+      <br/><b>Spawn</b>: make plans with friends in a few taps instead of an endless group chat. SwiftUI and Spring Boot.
+      <br/><a href="https://apps.apple.com/ca/app/spawn/id6738635871">App Store</a> · <a href="https://getspawn.com">getspawn.com</a> · <a href="https://github.com/Daggerpov/Spawn-App-iOS-SwiftUI">iOS</a> · <a href="https://github.com/Daggerpov/Spawn-App-Back-End">Back end</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/ca/app/quote-droplet-daily-quotes/id6455084603"><img src="assets/quote-droplet.webp" alt="Quote Droplet feed" width="100%"/></a>
+      <br/><b>Quote Droplet</b>: daily quotes on your home screen through widgets. 2,000+ downloads. SwiftUI and Go.
+      <br/><a href="https://apps.apple.com/ca/app/quote-droplet-daily-quotes/id6455084603">App Store</a> · <a href="https://github.com/Daggerpov/Quote-Droplet-iOS">iOS</a> · <a href="https://github.com/Daggerpov/Quote-Droplet-Mac">macOS</a> · <a href="https://github.com/Daggerpov/Quote-Dropper">API</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://testflight.apple.com/join/x3rbh8xw"><img src="assets/car-advisor.webp" alt="Car Advisor garage screen" width="100%"/></a>
+      <br/><b>Car Advisor</b>: a mechanic friend in your pocket that keeps your car's records and tells you what's due. In App Store review.
+      <br/><a href="https://testflight.apple.com/join/x3rbh8xw">TestFlight beta</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://lazyjobs.up.railway.app"><img src="assets/lazyjobs.webp" alt="LazyJobs landing page" width="100%"/></a>
+      <br/><b>LazyJobs</b>: applies to SWE internships and new-grad jobs for you, then files the replies so your inbox only shows interviews and OAs.
+      <br/><a href="https://lazyjobs.up.railway.app">lazyjobs.up.railway.app</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">More on <a href="https://www.danielagapov.com">danielagapov.com</a></p>
 
 
 <p align="center">
