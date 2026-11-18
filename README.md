@@ -34,7 +34,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://lazyjobs.up.railway.app"><img src="assets/lazyjobs.webp" alt="LazyJobs landing page" width="100%"/></a>
-      <br/><b>LazyJobs</b>: applies to SWE internships and new-grad jobs for you, then files the replies so your inbox only shows interviews and OAs.
+      <br/><img src="assets/lazyjobs-logo.svg" alt="" width="20" height="20" align="top"/> <b>LazyJobs</b>: applies to SWE internships and new-grad jobs for you, then files the replies so your inbox only shows interviews and OAs.
       <br/><br/><a href="https://lazyjobs.up.railway.app"><img src="https://img.shields.io/badge/lazyjobs.up.railway.app-1F4D3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="lazyjobs.up.railway.app" height="26"/></a>
     </td>
   </tr>
