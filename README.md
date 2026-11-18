@@ -36,7 +36,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/ca/app/quote-droplet-daily-quotes/id6455084603"><img src="assets/quote-droplet.webp" alt="Quote Droplet feed" width="100%"/></a>
-      <br/><b>Quote Droplet</b>: daily quotes on your home screen through widgets. 2,000+ downloads. SwiftUI and Go.
+      <br/><b>Quote Droplet</b>: daily quotes on your home screen through widgets. 5,000+ downloads. SwiftUI and Go.
       <br/><a href="https://apps.apple.com/ca/app/quote-droplet-daily-quotes/id6455084603">App Store</a> · <a href="https://github.com/Daggerpov/Quote-Droplet-iOS">iOS</a> · <a href="https://github.com/Daggerpov/Quote-Droplet-Mac">macOS</a> · <a href="https://github.com/Daggerpov/Quote-Dropper">API</a>
     </td>
   </tr>
