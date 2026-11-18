@@ -28,8 +28,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://testflight.apple.com/join/x3rbh8xw"><img src="assets/car-advisor.webp" alt="Car Advisor garage screen" width="100%"/></a>
-      <br/><b>Car Advisor</b>: a mechanic friend in your pocket that keeps your car's records and tells you what's due. In App Store review.
+      <a href="https://testflight.apple.com/join/x3rbh8xw"><img src="assets/car-advisor.webp" alt="Car Advisor garage screen: a 2015 Jetta under the work lamp, brake fluid refresh up next" width="100%"/></a>
+      <br/><b>Car Advisor</b>: works out the service schedule for your exact car and tells you what's due next. Snap a receipt or just ask. In App Store review.
       <br/><br/><a href="https://testflight.apple.com/join/x3rbh8xw"><img src="https://img.shields.io/badge/TestFlight%20beta-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" alt="TestFlight beta" height="26"/></a>
     </td>
     <td width="50%" valign="top">
